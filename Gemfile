@@ -2,8 +2,10 @@
 
 source "https://rubygems.org"
 
+ruby "2.7.2"
+
 # Specify your gem's dependencies in shopping_cart.gemspec
-gemspec
+# gemspec
 
 gem "rake", "~> 13.0"
 
